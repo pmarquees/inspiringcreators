@@ -8,9 +8,9 @@ Scott Hansen  is an American designer and Musician who runs the blog iso50 and i
 
 ### Links
 
-[link](https://twitter.com/ISO50 "Twitter") 
-[link](http://iso50.com "iso50")
-[link](http://tychomusic.com/ "Tycho Music")
+[Twitter](https://twitter.com/ISO50 "Twitter") 
+[iso50](http://iso50.com "iso50")
+[Tycho Music](http://tychomusic.com/ "Tycho Music")
 
 ## Alex Cornell
 
@@ -18,6 +18,6 @@ Alex is Product Designer at Facebook, musician and an outstaing photographer and
 
 ### Links
 
-[link](https://twitter.com/alexcornell "Twitter")
-[link](https://www.youtube.com/channel/UC4sYjJuS7wg6SF7k1x2jdjA "YouTube Channel")
-[link](http://www.alexcornell.com/ "Personal Website/ Design POrtfolio") 
+[Twitter](https://twitter.com/alexcornell "Twitter")
+[YouTube Channel](https://www.youtube.com/channel/UC4sYjJuS7wg6SF7k1x2jdjA "YouTube Channel")
+[Persoanl Website](http://www.alexcornell.com/ "Personal Website/ Design POrtfolio") 
